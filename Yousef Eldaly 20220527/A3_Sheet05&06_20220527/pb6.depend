@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1671551115 source:e:\fcai\oop\assignments & sheets\assignment 3\pb6\src\board.cpp
+	"board.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1671541027 e:\fcai\oop\assignments & sheets\assignment 3\pb6\include\board.h
+	"player.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1671480313 e:\fcai\oop\assignments & sheets\assignment 3\pb6\include\player.h
+	<iostream>
+	<bits/stdc++.h>
+
+1671539791 source:e:\fcai\oop\assignments & sheets\assignment 3\pb6\src\gamemanager.cpp
+	"GameManager.h"
+	"computerPlayer.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1671208152 e:\fcai\oop\assignments & sheets\assignment 3\pb6\include\gamemanager.h
+	"board.h"
+	"player.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1671213551 source:e:\fcai\oop\assignments & sheets\assignment 3\pb6\src\player.cpp
+	"player.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1671477538 source:e:\fcai\oop\assignments & sheets\assignment 3\pb6\main.cpp
+	<iostream>
+	"GameManager.h"
+
+1671554869 source:e:\fcai\oop\assignments & sheets\assignment 3\pb6\src\computerplayer.cpp
+	"computerPlayer.h"
+
+1671552755 e:\fcai\oop\assignments & sheets\assignment 3\pb6\include\computerplayer.h
+	"player.h"
+	"board.h"
+
+1671477538 source:d:\study\level 2\oop\assignments\assignment3\yousef eldaly 20220527\pb6\main.cpp
+	<iostream>
+	"GameManager.h"
+
+1671208152 d:\study\level 2\oop\assignments\assignment3\yousef eldaly 20220527\pb6\include\gamemanager.h
+	"board.h"
+	"player.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1671541027 d:\study\level 2\oop\assignments\assignment3\yousef eldaly 20220527\pb6\include\board.h
+	"player.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1671480313 d:\study\level 2\oop\assignments\assignment3\yousef eldaly 20220527\pb6\include\player.h
+	<iostream>
+	<bits/stdc++.h>
+
+1671551115 source:d:\study\level 2\oop\assignments\assignment3\yousef eldaly 20220527\pb6\src\board.cpp
+	"board.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1671539791 source:d:\study\level 2\oop\assignments\assignment3\yousef eldaly 20220527\pb6\src\gamemanager.cpp
+	"GameManager.h"
+	"computerPlayer.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1671552755 d:\study\level 2\oop\assignments\assignment3\yousef eldaly 20220527\pb6\include\computerplayer.h
+	"player.h"
+	"board.h"
+
+1671213551 source:d:\study\level 2\oop\assignments\assignment3\yousef eldaly 20220527\pb6\src\player.cpp
+	"player.h"
+	<iostream>
+	<bits/stdc++.h>
+

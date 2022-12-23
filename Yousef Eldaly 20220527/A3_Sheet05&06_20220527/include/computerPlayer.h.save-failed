@@ -1,0 +1,20 @@
+//#ifndef COMPUTERPLAYER_H
+//#define COMPUTERPLAYER_H
+//
+//#include "player.h"
+//
+//
+//class computerPlayer : public player
+//{
+//protected:
+//    int best_move;
+//public:
+//    ComputerPlayer(Board x_o);
+//    int minimax(Board temp_board, int num,bool is_player);
+//    int get_best_move();
+//
+//
+//
+//};
+//
+//#endif // COMPUTERPLAYER_H
